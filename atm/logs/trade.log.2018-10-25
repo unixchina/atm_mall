@@ -1,0 +1,24 @@
+2018-10-24 22:16:17,723 - trade - ERROR - card_id:1234 - trade_type:withdraw - amount:4000.00 - [Withdrawal excess]
+2018-10-24 22:17:39,320 - trade - INFO - card_id:1234 trade_type:withdraw amount:1000.00 interest:50.00
+2018-10-24 22:17:39,320 - trade - INFO - card_id:1234 trade_type:withdraw amount:1000.00 interest:50.00
+2018-10-24 22:28:21,000 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:800.00 interest:40.00
+2018-10-24 22:29:13,410 - trade - ERROR - trade_type:withdraw - card_id:1234 - amount:4000.00 - [Withdrawal excess]
+2018-10-24 22:30:50,391 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:500.00 interest:25.00
+2018-10-24 22:30:50,391 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:500.00 interest:25.00
+2018-10-24 22:32:48,629 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:500.00 interest:25.00
+2018-10-24 22:32:48,629 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:500.00 interest:25.00
+2018-10-24 22:32:48,629 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:500.00 interest:25.00
+2018-10-24 22:43:04,445 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:200.00 interest:10.00
+2018-10-24 22:43:20,876 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:300.00 interest:15.00
+2018-10-24 22:43:56,180 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:400.00 interest:20.00
+2018-10-24 22:48:16,071 - trade - ERROR - trade_type:withdraw - card_id:1234 - amount:3000.00 - [Withdrawal excess]
+2018-10-24 22:48:58,005 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:500.00 interest:25.00
+2018-10-24 22:58:24,426 - trade - INFO - trade_type:repayment - account:1234 - amount:762.50
+2018-10-24 23:05:53,121 - trade - INFO - trade_type:transfer - card_id:1234 - to_card:2234 - amount:100.00
+2018-10-24 23:07:21,806 - trade - INFO - trade_type:repayment - account:1234 - amount:62.00
+2018-10-24 23:16:49,406 - trade - INFO - trade_type:repayment - account:1234 - amount:400.00
+2018-10-25 21:36:31,541 - trade - INFO - trade_type:repayment - account:1234 - amount:1000.00
+2018-10-25 21:39:01,489 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:50.00 interest:2.50
+2018-10-25 21:56:43,957 - trade - INFO - trade_type:deduction - card_id:2234 - amount:50.00
+2018-10-25 22:00:32,160 - trade - INFO - trade_type:repayment - account:1234 - amount:52.50
+2018-10-25 23:54:38,075 - trade - INFO - trade_type:deduction - card_id:2234 - amount:100.00

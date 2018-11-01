@@ -1,0 +1,9 @@
+2018-10-29 23:16:49,993 - trade - INFO - trade_type:deduction - card_id:1234 - amount:4058.00
+2018-10-29 23:22:41,963 - trade - INFO - trade_type:deduction - card_id:1234 - amount:110.00
+2018-10-29 23:23:05,073 - trade - INFO - trade_type:deduction - card_id:1234 - amount:80.00
+2018-10-29 23:23:57,050 - trade - INFO - trade_type:deduction - card_id:1234 - amount:50.00
+2018-10-29 23:24:22,226 - trade - INFO - trade_type:deduction - card_id:1234 - amount:100.00
+2018-10-29 23:25:13,634 - trade - INFO - trade_type:deduction - card_id:1234 - amount:280.00
+2018-10-29 23:26:01,482 - trade - INFO - trade_type:deduction - card_id:1234 - amount:200.00
+2018-10-29 23:49:09,333 - trade - INFO - trade_type:deduction - card_id:1234 - amount:30.00
+2018-10-29 23:49:45,395 - trade - INFO - trade_type:deduction - card_id:1234 - amount:50.00

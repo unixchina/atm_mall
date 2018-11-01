@@ -1,0 +1,7 @@
+2018-10-26 00:04:45,987 - buy - INFO - account:tom - goods:['洗发水'] - pay amount:30
+2018-10-26 00:06:52,740 - buy - INFO - account:tom - goods:['鼠标'] - pay amount:50
+2018-10-26 00:07:45,634 - buy - INFO - account:tom - goods:['微波炉', '洗发水'] - pay amount:60
+2018-10-26 23:17:21,592 - buy - INFO - account:alex - goods:['鼠标', '洗发水'] - pay amount:60
+2018-10-26 23:24:55,982 - buy - INFO - account:alex - goods:['鼠标'] - pay amount:50
+2018-10-26 23:35:58,477 - buy - INFO - account:alex - goods:['鼠标', '洗发水'] - pay amount:60
+2018-10-26 23:45:07,643 - buy - INFO - account:alex - goods:['鼠标', '洗发水'] - pay amount:60

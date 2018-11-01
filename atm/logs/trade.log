@@ -1,0 +1,8 @@
+2018-10-30 00:00:52,259 - trade - INFO - trade_type:deduction - card_id:2234 - amount:2498.00
+2018-10-30 00:12:28,316 - trade - INFO - trade_type:deduction - card_id:2234 - amount:30.00
+2018-10-30 00:13:00,341 - trade - INFO - trade_type:deduction - card_id:2234 - amount:30.00
+2018-10-30 02:00:17,612 - trade - INFO - trade_type:deduction - card_id:2234 - amount:1028.00
+2018-10-30 02:35:27,972 - trade - INFO - trade_type:repayment - account:1234 - amount:10000.00
+2018-10-30 02:36:15,612 - trade - INFO - trade_type:transfer - card_id:1234 - to_card:2234 - amount:3000.00
+2018-10-30 02:36:36,227 - trade - INFO - trade_type:withdraw - card_id:1234 - amount:1000.00 interest:50.00
+2018-10-30 10:44:41,165 - trade - INFO - trade_type:deduction - card_id:1234 - amount:3000.00

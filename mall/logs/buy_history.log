@@ -1,0 +1,5 @@
+2018-10-30 00:00:52,259 - buy - INFO - account:tom - goods:['手机', '微波炉'] - pay amount:2498
+2018-10-30 00:12:28,316 - buy - INFO - account:tom - goods:['洗发水'] - pay amount:30
+2018-10-30 00:13:00,341 - buy - INFO - account:tom - goods:['洗发水'] - pay amount:30
+2018-10-30 02:00:17,612 - buy - INFO - account:tom - goods:['微波炉', '洗发水'] - pay amount:1028
+2018-10-30 10:44:41,165 - buy - INFO - account:alex - goods:['电脑'] - pay amount:3000
