@@ -1,4 +1,5 @@
 # atm_mall
+# 模拟atm取款机业务,mall购物商城
 '''
 运行环境:Python3
 在Centos6.8/win10+Pycharm  Python3.6.5下运行过.
